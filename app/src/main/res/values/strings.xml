@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp_label">Temperature</string>
+    <string name="temp_max_label">Temperature Max</string>
+    <string name="temp_min_label">Temperature Min</string>
+    <string name="desc_label">Description</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_speed_label">Wind Speed</string>
+    <string name="wind_degree_label">Wind Degree</string>
+    <string name="cloudiness_label">Cloudiness</string>
+    <string name="check_forecaste_label">Check Forecast</string>
+</resources>
